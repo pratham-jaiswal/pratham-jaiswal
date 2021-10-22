@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratham-jaiswal
 - 👀 I’m interested in web development, blockchain, 
 - 🌱 I’m currently learning C programming, HTML, CSS, JS, PHP
-- 💞️ I’m looking to collaborate on ...
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/pratham-jaiswal/ or on Instagram: https://www.instagram.com/pratham.jazz/
 
 <!---
