@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development, blockchain
 - 🌱 I’m currently learning C programming, HTML, CSS, JS, PHP
 - 💻 I'll soon start learning MERN Stack
+- 🌐 Check out My Personal Portfolio: https://pratham-jaiswal.github.io/personal-portfolio/
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/pratham-jaiswal/ or on Instagram: https://www.instagram.com/pratham.jazz/
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
