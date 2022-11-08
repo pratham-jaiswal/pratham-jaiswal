@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C programming, HTML, CSS, JS, PHP
 - 💻 I'm currently planning to learn MERN Stack, App development, and DApp Development.
 - 🌐 Check out My Personal Portfolio: https://pratham-jaiswal.github.io/personal-portfolio/
-- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/pratham-jaiswal/ or on Instagram: https://www.instagram.com/pratham.jazz/
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/pratham-jaiswal/ or on Instagram: https://www.instagram.com/_.pratham52/
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!---
