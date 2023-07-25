@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratham-jaiswal
 - 👀 Interested in web development, blockchain, ai/ml
 - 💻 Currently learning fullstack web development 
-- 🌐 Check out [Personal Portfolio]
+- 🌐 Check out my [Personal Portfolio]
 - 📫 Reach me on [LinkedIn] or on [Instagram]
 
 <br>
