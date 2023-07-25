@@ -23,7 +23,7 @@ Looking to monetize your website or traffic? 🚀💸 Check out Adsterra, the le
 
 [//]: #
 
-   [Personal Portfolio]: <https://pratham-jaiswal.github.io/personal-portfolio/>
+   [Personal Portfolio]: <https://pratham-jaiswal.cyclic.app/>
    [LinkedIn]: <https://www.linkedin.com/in/pratham-jaiswal/>
    [Instagram]: <https://www.instagram.com/_.pratham52/>
    [SharePad website]: <https://www.sharepad.online>
