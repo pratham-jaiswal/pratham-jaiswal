@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Adventures: Navigating the Digital Frontier with Websites and Web Apps](https://medium.com/@pratham52/web-adventures-navigating-the-digital-frontier-with-websites-and-web-apps-9226ce487719?source=rss-22cb12301bff------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
