@@ -75,18 +75,18 @@
 
 <p>
 <a href="https://quine.sh?utm_source=widgets&utm_campaign=pratham-jaiswal">
-  <img src="https://stats.quine.sh/pratham-jaiswal/github?theme=dark" alt="github-stats" width="400"/>
+  <img src="https://stats.quine.sh/pratham-jaiswal/github?theme=dark" alt="github-stats" width="350"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://quine.sh?utm_source=widgets&utm_campaign=pratham-jaiswal">
-  <img src="https://stats.quine.sh/pratham-jaiswal/languages-over-time?theme=dark" alt="github-languages" width="440"/>
+  <img src="https://stats.quine.sh/pratham-jaiswal/languages-over-time?theme=dark" alt="github-languages" width="350"/>
 </a>
 </p>
 
 <p>
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=pratham-jaiswal">
-    <img src="https://stats.quine.sh/pratham-jaiswal/stack-overflow?theme=dark" alt="stackoverflow-stats" width="400"/>
+    <img src="https://stats.quine.sh/pratham-jaiswal/stack-overflow?theme=dark" alt="stackoverflow-stats" width="350"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=pratham-jaiswal">
-    <img src="https://stats.quine.sh/pratham-jaiswal/dependencies?theme=dark" alt="github-dependencies" width="400"/>
+    <img src="https://stats.quine.sh/pratham-jaiswal/dependencies?theme=dark" alt="github-dependencies" width="350"/>
   </a>
 </p>
