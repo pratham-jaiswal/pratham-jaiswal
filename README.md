@@ -75,10 +75,10 @@
 
 <p>
 <a href="https://quine.sh?utm_source=widgets&utm_campaign=pratham-jaiswal">
-  <img src="https://stats.quine.sh/pratham-jaiswal/github?theme=dark" alt="github-stats" width="390"/>
+  <img src="https://stats.quine.sh/pratham-jaiswal/github?theme=dark" alt="github-stats" width="350"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://quine.sh?utm_source=widgets&utm_campaign=pratham-jaiswal">
-  <img src="https://stats.quine.sh/pratham-jaiswal/languages-over-time?theme=dark" alt="github-languages" width="350"/>
+  <img src="https://stats.quine.sh/pratham-jaiswal/languages-over-time?theme=dark" alt="github-languages" width="390"/>
 </a>
 </p>
 
