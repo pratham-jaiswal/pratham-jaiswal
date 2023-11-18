@@ -1,31 +1,25 @@
-- 👋 Hi, I’m @pratham-jaiswal
-- 👀 Interested in web development, blockchain, ai/ml
-- 💻 Currently learning fullstack web development 
-- 🌐 Check out my [Personal Portfolio]
-- 📫 Reach me on [LinkedIn] or on [Instagram]
+<h1 align="center">Hi 👋, I'm Pratham Jaiswal</h1>
+<h3 align="center">A passionate MERN stack and DApp developer from India</h3>
 
-<br>
+- 🔭 I’m currently working on **Two Wheeler Traffic Rule Violation Detection**
 
-### Check out SharePad
+- 🌱 I’m currently learning **React.js**
 
-Introducing SharePad, my new web app! 🚀  It's a simple and fast notepad that allows you to create and share notes with anyone, anywhere. 📝 With SharePad, you can customize your notes with various font styles, sizes, and formatting options. 🛍️📋 Best of all, there's no need to register or log in to use it! It's free and user-friendly, so you can start jotting down your ideas right away. 🤩 Visit the [SharePad website] to learn more and give it a try!
+- 👨‍💻 All of my projects are available at [https://pratham-jaiswal.vercel.app/](https://pratham-jaiswal.vercel.app/)
 
-If you're interested in contributing to the development of SharePad, feel free to check out the [SharePad GitHub repository].
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pratham-jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-jaiswal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14895056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14895056" height="30" width="40" /></a>
+<a href="https://instagram.com/_pratham52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pratham52" height="30" width="40" /></a>
+<a href="https://medium.com/@pratham52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pratham52" height="30" width="40" /></a>
+</p>
 
-### Monetize Your Website or Traffic with Adsterra
-Looking to monetize your website or traffic? 🚀💸 Check out Adsterra, the leading advertising network that offers fantastic revenue opportunities. 💰💻 Join using my [referral link] and receive exclusive benefits! Let's maximize your earning potential together. 💪🔥
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-<br>
-
-[![banner](https://landings-cdn.adsterratech.com/referralBanners/png/468%20x%2060%20px.png)](https://publishers.adsterra.com/referral/73iZUJAXWa)
-
-[//]: #
-
-   [Personal Portfolio]: <https://pratham-jaiswal.cyclic.app/>
-   [LinkedIn]: <https://www.linkedin.com/in/pratham-jaiswal/>
-   [Instagram]: <https://www.instagram.com/_.pratham52/>
-   [SharePad website]: <https://www.sharepad.online>
-   [SharePad GitHub repository]: <https://github.com/pratham-jaiswal/sharepad>
-   [referral link]: <https://publishers.adsterra.com/referral/73iZUJAXWa>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham-jaiswal&show_icons=true&locale=en&layout=compact" alt="pratham-jaiswal" /></p>
