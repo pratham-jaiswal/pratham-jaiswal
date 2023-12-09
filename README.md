@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pratham-jaiswal.vercel.app/](https://pratham-jaiswal.vercel.app/)
 
-- Do check out my new game - [**Ascend: A 2D Endless Climbing Platformer Game**](https://github.com/pratham-jaiswal/ascend-endless-climber).
+- 🎮 Do check out my new game - [**Ascend: A 2D Endless Climbing Platformer Game**](https://github.com/pratham-jaiswal/ascend-endless-climber).
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
