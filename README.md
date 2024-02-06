@@ -55,8 +55,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pratham-jaiswal&show_icons=true&locale=en&layout=compact)
 
-</br></br>
-
 ![GitHub Stats](https://stats.quine.sh/pratham-jaiswal/github?theme=dark)
 ![Stack Overflow Stats](https://stats.quine.sh/pratham-jaiswal/stack-overflow?theme=dark)
 
