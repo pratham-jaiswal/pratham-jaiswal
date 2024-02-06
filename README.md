@@ -59,3 +59,5 @@
 
 ![GitHub Stats](https://stats.quine.sh/pratham-jaiswal/github?theme=dark)
 ![Stack Overflow Stats](https://stats.quine.sh/pratham-jaiswal/stack-overflow?theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pratham-jaiswal)](https://git.io/streak-stats)
