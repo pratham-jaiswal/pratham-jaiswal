@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Jaiswal</h1>
 <h3 align="center">A passionate MERN stack and DApp developer from India</h3>
 
-- 🔭 I’m currently working on **Blockchain Approach to a More Secure Social Media** (which will be an extended version of [**Engager**](https://github.com/pratham-jaiswal/engager)), and [Expense Tracker](https://github.com/pratham-jaiswal/expense-tracker).
+- 🔭 I’m currently working on **Blockchain Approach to a More Secure Social Media** (which will be an extended version of [**Engager**](https://github.com/pratham-jaiswal/engager)), and [Xpenzie - The Expense Tracker](https://github.com/pratham-jaiswal/xpenzie-expense-tracker).
 
 - 🌱 I’m currently learning **React.js**
 
