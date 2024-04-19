@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Blockchain Approach to a More Secure Social Media** (which will be an extended version of [**Engager**](https://github.com/pratham-jaiswal/engager)), and [Xpenzie - The Expense Tracker](https://github.com/pratham-jaiswal/xpenzie-expense-tracker).
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React-Native**
 
 - 👨‍💻 All of my projects are available at [https://pratham-jaiswal.vercel.app/](https://pratham-jaiswal.club/)
 
