@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Jaiswal</h1>
 <h3 align="center">A passionate MERN stack and DApp developer from India</h3>
 
-- 🔭 I’m currently working on [PokéTrivia]([https://github.com/pratham-jaiswal/engager](https://github.com/pratham-jaiswal/poketrivia)), and [Xpenzie - The Expense Tracker](https://github.com/pratham-jaiswal/xpenzie-expense-tracker).
+- 🔭 I’m currently working on [PokéTrivia](https://github.com/pratham-jaiswal/poketrivia), and [Xpenzie - The Expense Tracker](https://github.com/pratham-jaiswal/xpenzie-expense-tracker).
 
 - 🌱 I’m currently learning **React-Native**
 
