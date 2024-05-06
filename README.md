@@ -38,6 +38,7 @@
 ![Mongoose](https://img.shields.io/badge/Code-Mongoose-informational?style=flat&logo=mongoosedotws&color=F04D35)
 
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&color=F5F5F5)
+![Sass](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=sass&color=CB6699)
 ![Bootstrap](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&color=7952B3)
 
 ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
