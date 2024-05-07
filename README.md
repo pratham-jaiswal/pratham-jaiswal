@@ -1,26 +1,30 @@
 <h1 align="center">Hi 👋, I'm Pratham Jaiswal</h1>
-<h3 align="center">A passionate MERN stack and DApp developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 🔭 I’m currently working on [PokéTrivia](https://github.com/pratham-jaiswal/poketrivia), and [Xpenzie - The Expense Tracker](https://github.com/pratham-jaiswal/xpenzie-expense-tracker).
 
-- 🌱 I’m currently learning **React-Native**
+<!-- - 🌱 I’m currently learning **React-Native** -->
 
-- 👨‍💻 All of my projects are available at [https://pratham-jaiswal.vercel.app/](https://pratham-jaiswal.club/)
+- 👨‍💻 All of my projects are available at [my personal portfolio](https://pratham-jaiswal.club/).
 
 - 🎮 Do check out my new Pokémon trivia game - [PokéTrivia](https://poketrivia.pratham-jaiswal.club).
 
+---
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [8 Interesting Free Must-Try APIs for Your Next Project](https://medium.com/@pratham52/8-interesting-free-must-try-apis-for-your-next-project-d790938917ec?source=rss-22cb12301bff------2)
 - [Web Adventures: Navigating the Digital Frontier with Websites and Web Apps](https://medium.com/@pratham52/web-adventures-navigating-the-digital-frontier-with-websites-and-web-apps-9226ce487719?source=rss-22cb12301bff------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-jaiswal)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14895056/prathamj)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_pratham.dev)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pratham52)
+[![Itch.io](https://img.shields.io/badge/Itch.io-D92449?style=for-the-badge&logo=itch.io&logoColor=white)](https://maxx-devs.itch.io/)
 
+---
 # 💻 Tech Stack:
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -83,9 +87,10 @@
 ![Arduino](https://img.shields.io/badge/arduino-121013?style=for-the-badge&logo=arduino&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pratham-jaiswal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pratham-jaiswal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pratham-jaiswal&theme=dark&hide_border=false)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-jaiswal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
