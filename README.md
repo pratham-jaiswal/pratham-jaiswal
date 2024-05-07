@@ -84,7 +84,7 @@
 ## Others
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-121013?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-01979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
