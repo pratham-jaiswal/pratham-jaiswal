@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Jaiswal</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on [PokéTrivia](https://github.com/pratham-jaiswal/poketrivia), and [Xpenzie - The Expense Tracker](https://github.com/pratham-jaiswal/xpenzie-expense-tracker).
+- 🔭 I’m currently working on [PokéTrivia](https://github.com/pratham-jaiswal/poketrivia).
 
 <!-- - 🌱 I’m currently learning **React-Native** -->
 
