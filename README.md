@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratham Jaiswal</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on [PokéTrivia](https://github.com/pratham-jaiswal/poketrivia).
+<!-- - 🔭 I’m currently working on [PokéTrivia](https://github.com/pratham-jaiswal/poketrivia). -->
 
 <!-- - 🌱 I’m currently learning **React-Native** -->
 
-- 👨‍💻 All of my projects are available at [my personal portfolio](https://pratham-jaiswal.club/).
+- 👨‍💻 Check out my [personal portfolio](https://pratham-jaiswal.club/).
 
 - 🎮 Do check out my new Pokémon trivia game - [PokéTrivia](https://poketrivia.pratham-jaiswal.club).
 
