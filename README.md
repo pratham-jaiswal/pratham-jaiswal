@@ -108,7 +108,7 @@
 - [Radiant Rush](https://maxx-devs.itch.io/radiant-rush) - 2D Game
 - [Classic Asteroids](https://maxx-devs.itch.io/asteroids) - 2D Game
 - [Classic Snake](https://maxx-devs.itch.io/snake-game) - 2D Game
-- [Gravity Glid](https://maxx-devs.itch.io/gravity-glide) - 2D Demo Game
+- [Gravity Glide](https://maxx-devs.itch.io/gravity-glide) - 2D Demo Game
 - [2048](https://2048.pratham-jaiswal.club/) - Game
 - [Shadow City: Nexus of Destiny](https://shadow-city.pratham-jaiswal.club/) - Text based adventure game
 - [Connect Four](https://connect-four.pratham-jaiswal.club/) - Local Two Player Game
