@@ -100,7 +100,7 @@
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-## More Links
+# More Links
 
 - [PokéTrivia](https://poketrivia.pratham-jaiswal.club/) - Pokémon based trivia games
 - [SharePad](https://sharepad.pratham-jaiswal.club/) - A collaborative text editor
