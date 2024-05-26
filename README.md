@@ -128,4 +128,4 @@
 ---
 # 💰 You can help me by Donating
 
-[![Imgur](https://i.imgur.com/jd86QFv.png)](https://buymeacoffee.com/maxxdevs) 
+[![Imgur](https://i.imgur.com/WcVCUIc.png)](https://buymeacoffee.com/maxxdevs)
