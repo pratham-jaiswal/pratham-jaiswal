@@ -104,6 +104,7 @@
 
 - [PokéTrivia](https://poketrivia.pratham-jaiswal.club/) - Pokémon based trivia games
 - [SharePad](https://sharepad.pratham-jaiswal.club/) - A collaborative text editor
+- [Light It Up](https://buymeacoffee.com/maxxdevs/e/214750) - Soundtrack
 - [Ascend](https://maxx-devs.itch.io/ascend) - 2D Game
 - [Radiant Rush](https://maxx-devs.itch.io/radiant-rush) - 2D Game
 - [Classic Asteroids](https://maxx-devs.itch.io/asteroids) - 2D Game
