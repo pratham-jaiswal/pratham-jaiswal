@@ -100,7 +100,7 @@
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-# More Links
+# 🔗 More Links
 
 - [PokéTrivia](https://poketrivia.pratham-jaiswal.club/) - Pokémon based trivia games
 - [SharePad](https://sharepad.pratham-jaiswal.club/) - A collaborative text editor
@@ -124,8 +124,15 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratham-jaiswal&theme=dark&hide_border=false)
-<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-jaiswal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+# 🤝 Referrals
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=dd04c3f5d629&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+[![Adsterra Referral Badge](https://landings-cdn.adsterratech.com/referralBanners/gif/468x60_adsterra_reff.gif)](https://beta.publishers.adsterra.com/referral/73iZUJAXWa)
 
 ---
 # 💰 You can help me by Donating
