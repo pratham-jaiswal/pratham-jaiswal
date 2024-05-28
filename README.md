@@ -130,4 +130,6 @@
 ---
 # 💰 You can help me by Donating
 
+*I would greatly appreciate any donations to help keep my hosting running and support new projects. Your contributions will provide the resources I need to continue creating and developing. Thank you :)*
+
 [![Imgur](https://i.imgur.com/WcVCUIc.png)](https://buymeacoffee.com/maxxdevs)
