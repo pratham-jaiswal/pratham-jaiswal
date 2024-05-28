@@ -130,13 +130,15 @@
 ---
 # 🤝 Referrals
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=dd04c3f5d629&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+Check out these great services and support my work by using the referral links below!
 
-[![Adsterra Referral Badge](https://landings-cdn.adsterratech.com/referralBanners/gif/468x60_adsterra_reff.gif)](https://beta.publishers.adsterra.com/referral/73iZUJAXWa)
+<a href="https://www.digitalocean.com/?refcode=dd04c3f5d629&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+
+<a href="https://beta.publishers.adsterra.com/referral/73iZUJAXWa"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/gif/468x60_adsterra_reff.gif" /></a>
 
 ---
-# 💰 You can help me by Donating
+# 🎁 You can help me by Donating
 
-*I would greatly appreciate any donations to help keep my hosting running and support new projects. Your contributions will provide the resources I need to continue creating and developing. Thank you :)*
+I would greatly appreciate any donations to help keep my hosting running and support new projects. Your contributions will provide the resources I need to continue creating and developing. Thank you :)
 
 [![Imgur](https://i.imgur.com/WcVCUIc.png)](https://buymeacoffee.com/maxxdevs)
