@@ -10,7 +10,7 @@
 - 🎮 Do check out my new Pokémon trivia game - [PokéTrivia](https://poketrivia.pratham-jaiswal.club)
 
 ---
-### Blogs posts
+# ✍️ Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 - [8 Interesting Free Must-Try APIs for Your Next Project](https://medium.com/@pratham52/8-interesting-free-must-try-apis-for-your-next-project-d790938917ec?source=rss-22cb12301bff------2)
