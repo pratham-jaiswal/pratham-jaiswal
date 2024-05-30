@@ -54,6 +54,7 @@
 ![Expo](https://img.shields.io/badge/expo-%2320232a.svg?style=for-the-badge&logo=expo&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-%23CB3837.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-white.svg?style=for-the-badge&logo=flask&logoColor=%23000)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
