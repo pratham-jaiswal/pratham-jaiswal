@@ -5,9 +5,11 @@
 
 <!-- - 🌱 I’m currently learning **React-Native** -->
 
-- 👨‍💻 Check out my [personal portfolio](https://pratham-jaiswal.club/)
+- 👨‍💻 Visit my [personal portfolio](https://pratham-jaiswal.club/) to see my work.
 
-- 🎮 Do check out my new Pokémon trivia game - [PokéTrivia](https://poketrivia.pratham-jaiswal.club)
+- 🎮 Try out my new Pokémon trivia game, [PokéTrivia](https://poketrivia.pratham-jaiswal.club).
+
+- 📱 Check out my new mobile app, [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest), an expense tracker.
 
 ---
 # ✍️ Blogs posts
