@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham Jaiswal</h1>
 <h3 align="center">A passionate developer</h3>
 
-<!-- - 🔭 I’m currently working on [PokéTrivia](https://github.com/pratham-jaiswal/poketrivia). -->
-
 <!-- - 🌱 I’m currently learning **React-Native** -->
 
 - 👨‍💻 Visit my [personal portfolio](https://pratham-jaiswal.club/) to see my work.
@@ -10,6 +8,8 @@
 - 🎮 Try out my new Pokémon trivia game, [PokéTrivia](https://poketrivia.pratham-jaiswal.club).
 
 - 📱 Check out my new mobile app, [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest), an expense tracker.
+
+- 🔭 I’m currently working on [Pal Hive](https://github.com/pratham-jaiswal/pal-hive).
 
 ---
 # ✍️ Blogs posts
