@@ -104,13 +104,14 @@
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-# 🔗 More Links
+# 🔗 Links
 
+- [Personal Portfolio](https://pratham-jaiswal.club/)
 - [PokéTrivia](https://poketrivia.pratham-jaiswal.club/) - Pokémon based trivia games
+- [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker App (Android)
 - [SharePad](https://sharepad.pratham-jaiswal.club/) - A collaborative text editor
 - [Light It Up](https://buymeacoffee.com/maxxdevs/e/214750) - Soundtrack
-- [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker (Android)
-- [FlickPick](https://github.com/pratham-jaiswal/flick-pick/releases/latest) - AI Movie Recommendation (Windows)
+- [FlickPick](https://github.com/pratham-jaiswal/flick-pick/releases/latest) - AI Movie Recommendation App (Windows)
 - [Ascend](https://maxx-devs.itch.io/ascend) - 2D Game
 - [Radiant Rush](https://maxx-devs.itch.io/radiant-rush) - 2D Game
 - [Classic Asteroids](https://maxx-devs.itch.io/asteroids) - 2D Game
