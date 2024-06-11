@@ -7,7 +7,7 @@
 
 - 🎮 Try out my new Pokémon trivia game, [PokéTrivia](https://poketrivia.pratham-jaiswal.club).
 
-- 📱 Check out my new mobile app:
+- 📱 Check out my mobile apps:
   - 📸 [Pal Hive](https://github.com/pratham-jaiswal/pal-hive/releases/latest) - Social Media.
   - 💸 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker.
 
