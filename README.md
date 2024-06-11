@@ -7,7 +7,9 @@
 
 - 🎮 Try out my new Pokémon trivia game, [PokéTrivia](https://poketrivia.pratham-jaiswal.club).
 
-- 📱 Check out my new mobile app, [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest), an expense tracker.
+- 📱 Check out my new mobile app:
+  - 📸 [Pal Hive](https://github.com/pratham-jaiswal/pal-hive/releases/latest) - Social Media.
+  - 💸 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker.
 
 - 🔭 I’m currently working on [Pal Hive](https://github.com/pratham-jaiswal/pal-hive).
 
@@ -107,6 +109,7 @@
 # 🔗 Links
 
 - [Personal Portfolio](https://pratham-jaiswal.club/)
+- [Pal Hive](https://github.com/pratham-jaiswal/pal-hive/releases/latest) - Social Media App (Android)
 - [PokéTrivia](https://poketrivia.pratham-jaiswal.club/) - Pokémon based trivia games
 - [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker App (Android)
 - [SharePad](https://sharepad.pratham-jaiswal.club/) - A collaborative text editor
