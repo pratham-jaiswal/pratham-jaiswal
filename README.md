@@ -3,7 +3,7 @@
 
 - 👨‍💻 Visit my [personal portfolio](https://pratham-jaiswal.club/) to see my work.
 
-- 🎮 Try out my new Pokémon trivia game, [PokéTrivia](https://poketrivia.pratham-jaiswal.club).
+- 🎮 Try out [PokéTrivia](https://poketrivia.pratham-jaiswal.club), my new Pokémon trivia game.
 
 - 📱 Check out my mobile apps:
   - 📸 [Pal Hive](https://github.com/pratham-jaiswal/pal-hive/releases/latest) - Social Media.
