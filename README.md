@@ -9,8 +9,6 @@
   - 📸 [Pal Hive](https://github.com/pratham-jaiswal/pal-hive/releases/latest) - Social Media.
   - 💸 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker.
 
-- 🔭 I’m currently working on [Pal Hive](https://github.com/pratham-jaiswal/pal-hive).
-
 ---
 # ✍️ Blogs posts
 
