@@ -8,6 +8,7 @@
 - 📱 Check out my mobile apps:
   - 📸 [Pal Hive](https://github.com/pratham-jaiswal/pal-hive/releases/latest) - Social Media.
   - 💸 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker.
+  - ⚠️ [Signal](https://github.com/pratham-jaiswal/signal-quick-safety-alert-app/releases/latest) - Quick Emergency Alert Sender.
 
 ---
 # ✍️ Blogs posts
@@ -104,9 +105,10 @@
 # 🔗 Links
 
 - [Personal Portfolio](https://pratham-jaiswal.club/)
-- [Pal Hive](https://github.com/pratham-jaiswal/pal-hive/releases/latest) - Social Media App (Android)
-- [PokéTrivia](https://poketrivia.pratham-jaiswal.club/) - Pokémon based trivia games
 - [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker App (Android)
+- [Pal Hive](https://github.com/pratham-jaiswal/pal-hive/releases/latest) - Social Media App (Android)
+- [Signal](https://github.com/pratham-jaiswal/signal-quick-safety-alert-app/releases/latest) - Quick Emergency Alert App.
+- [PokéTrivia](https://poketrivia.pratham-jaiswal.club/) - Pokémon based trivia games
 - [SharePad](https://sharepad.pratham-jaiswal.club/) - A collaborative text editor
 - [Light It Up](https://buymeacoffee.com/maxxdevs/e/214750) - Soundtrack
 - [FlickPick](https://github.com/pratham-jaiswal/flick-pick/releases/latest) - AI Movie Recommendation App (Windows)
