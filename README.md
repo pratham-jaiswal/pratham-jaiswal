@@ -14,7 +14,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [8 Interesting Free Must-Try APIs for Your Next Project](https://medium.com/@pratham52/8-interesting-free-must-try-apis-for-your-next-project-d790938917ec?source=rss-22cb12301bff------2)
-- [Web Adventures: Navigating the Digital Frontier with Websites and Web Apps](https://medium.com/@pratham52/web-adventures-navigating-the-digital-frontier-with-websites-and-web-apps-9226ce487719?source=rss-22cb12301bff------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
