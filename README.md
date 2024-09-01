@@ -2,9 +2,6 @@
 <h3 align="center">A passionate developer</h3>
 
 - 👨‍💻 Visit my [personal portfolio](https://pratham-jaiswal.club/) to see my work.
-
-- 🎮 Try out [PokéTrivia](https://poketrivia.pratham-jaiswal.club), my new Pokémon trivia game.
-
 - 📱 Check out my mobile apps:
   - 📸 [Pal Hive](https://github.com/pratham-jaiswal/pal-hive/releases/latest) - Social Media.
   - 💸 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker.
