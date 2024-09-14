@@ -11,6 +11,7 @@
 # ✍️ Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Your Own Local AI Chatbot with Ollama and LangChain](https://medium.com/@pratham52/create-your-own-local-ai-chatbot-with-ollama-and-langchain-ccd0a8c423e3?source=rss-22cb12301bff------2)
 - [8 Interesting Free Must-Try APIs for Your Next Project](https://medium.com/@pratham52/8-interesting-free-must-try-apis-for-your-next-project-d790938917ec?source=rss-22cb12301bff------2)
 <!-- BLOG-POST-LIST:END -->
 
