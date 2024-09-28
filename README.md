@@ -104,6 +104,7 @@
 
 - [Personal Portfolio](https://pratham-jaiswal.club/)
 - [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker App (Android)
+- [Legal AI Chatbot (Indian)](https://legal-ai-chatbot.streamlit.app/) - AI Chatbot for Indian Legal Issues
 - [Pal Hive](https://github.com/pratham-jaiswal/pal-hive/releases/latest) - Social Media App (Android)
 - [Signal](https://github.com/pratham-jaiswal/signal-quick-safety-alert-app/releases/latest) - Quick Emergency Alert App.
 - [PokéTrivia](https://poketrivia.pratham-jaiswal.club/) - Pokémon based trivia games
