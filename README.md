@@ -4,8 +4,7 @@
 - 👨‍💻 Visit my [personal portfolio](https://pratham-jaiswal.club/) to see my work.
 - 📱 Check out my mobile apps:
   - 📺 [Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest) - Anime Streaming App
-  - 📸 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Social Media.
-<!--  - 💸 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker. -->
+  - 📸 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracking App
 
 ---
 # ✍️ Blogs posts
