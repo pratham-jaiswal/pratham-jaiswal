@@ -5,6 +5,8 @@
 - 📱 Check out my mobile apps:
   - 📺 [Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest) - Anime Streaming App
   - 📸 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracking App
+- 📱 Check out my desktop apps:
+  - 📄 [PDFKit](https://github.com/pratham-jaiswal/pdf-kit/releases/latest) - PDF Manager
 
 ---
 # ✍️ Blogs posts
