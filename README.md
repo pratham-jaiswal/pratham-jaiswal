@@ -68,7 +68,7 @@
 ## AI Bots & Tools
 
 ![Langchain](https://img.shields.io/badge/langchain-1c3c3c.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/angular-white.svg?style=for-the-badge&logo=ollama&logoColor=black)
+![Ollama](https://img.shields.io/badge/ollama-white.svg?style=for-the-badge&logo=ollama&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
