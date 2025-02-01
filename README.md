@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Jaiswal</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 👨‍💻 Visit my [personal portfolio](https://pratham-jaiswal.club/) to see my work.
+- 👨‍💻 Visit my [personal portfolio](https://prathamjaiswal.com/) to see my work.
 - 📱 Check out my mobile apps:
   - 📺 [Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest) - Anime Streaming App
   - 📸 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracking App
@@ -105,26 +105,18 @@
 ---
 # 🔗 Links
 
-- [Personal Portfolio](https://pratham-jaiswal.club/)
+- [Personal Portfolio](https://prathamjaiswal.com)
 - [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker App (Android)
 - [Legal AI Chatbot (Indian)](https://legal-ai-chatbot.streamlit.app/) - AI Chatbot for Indian Legal Issues
-- [PokéTrivia](https://poketrivia.pratham-jaiswal.club/) - Pokémon based trivia games
-- [SharePad](https://sharepad.pratham-jaiswal.club/) - A collaborative text editor
+- [PokéTrivia](https://poketrivia.prathamjaiswal.com/) - Pokémon based trivia games
+- [SharePad](https://sharepad.prathamjaiswal.com/) - A collaborative text editor
 - [Light It Up](https://buymeacoffee.com/maxxdevs/e/214750) - Soundtrack
-- [FlickPick](https://github.com/pratham-jaiswal/flick-pick/releases/latest) - AI Movie Recommendation App (Windows)
 - [Ascend](https://maxx-devs.itch.io/ascend) - 2D Game
 - [Radiant Rush](https://maxx-devs.itch.io/radiant-rush) - 2D Game
 - [Classic Asteroids](https://maxx-devs.itch.io/asteroids) - 2D Game
 - [Classic Snake](https://maxx-devs.itch.io/snake-game) - 2D Game
 - [Gravity Glide](https://maxx-devs.itch.io/gravity-glide) - 2D Demo Game
-- [2048](https://2048.pratham-jaiswal.club/) - Game
-- [Shadow City: Nexus of Destiny](https://shadow-city.pratham-jaiswal.club/) - Text based adventure game
-- [Connect Four](https://connect-four.pratham-jaiswal.club/) - Local Two Player Game
-- [Tic Tac Toe](https://tictactoe.pratham-jaiswal.club/) - Local Two Player Game
-- [Memory Cards](https://memory-card.pratham-jaiswal.club/) - Game
-- [Rock Paper Scissors](https://rock-paper-scissors.pratham-jaiswal.club/) - Game
-- [Simple Calculator](https://calculator.pratham-jaiswal.club/)
-- [Static Web Music Player](https://web-music-player.pratham-jaiswal.club/)
+- [Static Web Music Player](https://web-music-player.prathamjaiswal.com/)
 ---
 # 📊 GitHub Stats:
 
