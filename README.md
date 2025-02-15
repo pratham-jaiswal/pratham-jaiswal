@@ -106,8 +106,10 @@
 # 🔗 Links
 
 - [Personal Portfolio](https://prathamjaiswal.com)
+- [TLDR AI](https://tldr-ai.prathamjaiswal.com) - TL;DR AI
+- [Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest) - Anime Streaming App (Android)
 - [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker App (Android)
-- [Legal AI Chatbot (Indian)](https://legal-ai-chatbot.streamlit.app/) - AI Chatbot for Indian Legal Issues
+- [Legal AI](https://legal-ai-chatbot.streamlit.app/) - AI Chatbot for Indian Legal Issues
 - [PokéTrivia](https://poketrivia.prathamjaiswal.com/) - Pokémon based trivia games
 - [SharePad](https://sharepad.prathamjaiswal.com/) - A collaborative text editor
 - [Light It Up](https://buymeacoffee.com/maxxdevs/e/214750) - Soundtrack
@@ -116,7 +118,6 @@
 - [Classic Asteroids](https://maxx-devs.itch.io/asteroids) - 2D Game
 - [Classic Snake](https://maxx-devs.itch.io/snake-game) - 2D Game
 - [Gravity Glide](https://maxx-devs.itch.io/gravity-glide) - 2D Demo Game
-- [Static Web Music Player](https://web-music-player.prathamjaiswal.com/)
 ---
 # 📊 GitHub Stats:
 
