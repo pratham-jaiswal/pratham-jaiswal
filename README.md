@@ -5,11 +5,11 @@
 - 📱 Check out my mobile apps:
   - 📺 [Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest) - Anime Streaming App
   - 📸 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracking App
-- Check out my AI Tools:
-  - [Claire](https://github.com/pratham-jaiswal/claire) - An agentic AI with persistent semantic memory, built for conversations and tasks.
-  - [TL;DR AI](https://tldr-ai.prathamjaiswal.com/) - AI tool for quick, concise summaries of lengthy articles and papers.
+- 🤖 Check out my AI Tools:
+  - 🧠 [Claire](https://github.com/pratham-jaiswal/claire) - An agentic AI with persistent semantic memory, built for conversations and tasks.
+  - ✍️ [TL;DR AI](https://tldr-ai.prathamjaiswal.com/) - AI tool for quick, concise summaries of lengthy articles and papers.
 - 📱 Check out my desktop apps:
-  - [Game Launcher](https://github.com/pratham-jaiswal/game-launcher-app/releases/tag/v1.0.1) - An AI-powered game launcher to detect, manage, and launch games.
+  - 🎮 [Game Launcher](https://github.com/pratham-jaiswal/game-launcher-app/releases/tag/v1.0.1) - An AI-powered game launcher to detect, manage, and launch games.
   - 📄 [PDFKit](https://github.com/pratham-jaiswal/pdf-kit/releases/latest) - PDF Manager
 
 ---
@@ -110,7 +110,7 @@
 # 🔗 Links
 
 - [Personal Portfolio](https://prathamjaiswal.com)
-- [TLDR AI](https://tldr-ai.prathamjaiswal.com) - TL;DR AI
+- [TL;DR AI](https://tldr-ai.prathamjaiswal.com) - TL;DR AI
 - [Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest) - Anime Streaming App (Android)
 - [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker App (Android)
 - [Legal AI](https://legal-ai-chatbot.streamlit.app/) - AI Chatbot for Indian Legal Issues
