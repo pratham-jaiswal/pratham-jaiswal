@@ -8,9 +8,6 @@
 - 🤖 Check out my AI Tools:
   - 🧠 [Claire](https://github.com/pratham-jaiswal/claire) - An agentic AI with persistent semantic memory, built for conversations and tasks.
   - ✍️ [TL;DR AI](https://tldr-ai.prathamjaiswal.com/) - AI tool for quick, concise summaries of lengthy articles and papers.
-- 📱 Check out my desktop apps:
-  - 🎮 [Game Launcher](https://github.com/pratham-jaiswal/game-launcher-app/releases/tag/v1.0.1) - An AI-powered game launcher to detect, manage, and launch games.
-  - 📄 [PDFKit](https://github.com/pratham-jaiswal/pdf-kit/releases/latest) - PDF Manager
 
 ---
 # ✍️ Blogs posts
