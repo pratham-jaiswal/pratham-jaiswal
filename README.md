@@ -17,6 +17,7 @@
 - [Building a Simple Morse Code Translation API with GoFr](https://medium.com/@pratham52/building-a-simple-morse-code-translation-api-with-gofr-36d4f03abe50?source=rss-22cb12301bff------2)
 - [Build a Two-Wheeler Traffic Rule Violation Detector — No ML/DL!](https://medium.com/@pratham52/build-a-two-wheeler-traffic-rule-violation-detector-no-ml-dl-0da3ad626c7d?source=rss-22cb12301bff------2)
 - [Create Your Own Local AI Chatbot with Ollama and LangChain](https://medium.com/@pratham52/create-your-own-local-ai-chatbot-with-ollama-and-langchain-ccd0a8c423e3?source=rss-22cb12301bff------2)
+- [8 Interesting Free Must-Try APIs for Your Next Project](https://medium.com/@pratham52/8-interesting-free-must-try-apis-for-your-next-project-d790938917ec?source=rss-22cb12301bff------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
