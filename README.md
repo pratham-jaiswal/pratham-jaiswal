@@ -54,10 +54,10 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-<!-- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) -->
 ![Flask](https://img.shields.io/badge/flask-white.svg?style=for-the-badge&logo=flask&logoColor=%23000)
-<!-- ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+<!-- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) -->
 
 ## Database & Caching
@@ -111,13 +111,13 @@
 - [TL;DR AI](https://tldr-ai.prathamjaiswal.com) - TL;DR AI
 - [Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest) - Anime Streaming App (Android)
 - [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker App (Android)
+- [Ascend](https://maxx-devs.itch.io/ascend) - 2D Game
+- [Radiant Rush](https://maxx-devs.itch.io/radiant-rush) - 2D Game
 <!-- - [Legal AI](https://legal-ai-chatbot.streamlit.app/) - AI Chatbot for Indian Legal Issues
 - [PokéTrivia](https://poketrivia.prathamjaiswal.com/) - Pokémon based trivia games
 - [SharePad](https://sharepad.prathamjaiswal.com/) - A collaborative text editor
-- [Light It Up](https://buymeacoffee.com/maxxdevs/e/214750) - Soundtrack -->
-- [Ascend](https://maxx-devs.itch.io/ascend) - 2D Game
-- [Radiant Rush](https://maxx-devs.itch.io/radiant-rush) - 2D Game
-<!-- - [Classic Asteroids](https://maxx-devs.itch.io/asteroids) - 2D Game
+- [Light It Up](https://buymeacoffee.com/maxxdevs/e/214750) - Soundtrack
+- [Classic Asteroids](https://maxx-devs.itch.io/asteroids) - 2D Game
 - [Classic Snake](https://maxx-devs.itch.io/snake-game) - 2D Game
 - [Gravity Glide](https://maxx-devs.itch.io/gravity-glide) - 2D Demo Game -->
 ---
