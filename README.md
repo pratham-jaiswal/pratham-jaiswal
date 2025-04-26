@@ -8,12 +8,12 @@
 - 🤖 Check out my AI Tools:
   - 🧠 [Claire](https://github.com/pratham-jaiswal/claire) - An agentic AI with persistent semantic memory, built for conversations and tasks.
   - ✍️ [TL;DR AI](https://tldr-ai.prathamjaiswal.com/) - AI tool for quick, concise summaries of lengthy articles and papers.
-- 🚀 Check out my APIs:
+<!-- - 🚀 Check out my APIs:
   - 🎬 **[Talk to Video API](https://rapidapi.com/prathamjaiswal/api/talk-to-video1)** – Turn videos into rich structured data using GenAI
     - 🧠 Scene-by-scene transcription with emotion detection
     - 🗣️ Chat with videos using custom prompts
     - 🌎 Translate transcripts into multiple languages
-    - 🎧 Convert text to expressive speech (TTS)
+    - 🎧 Convert text to expressive speech (TTS) -->
 
 ---
 # ✍️ Blogs posts
