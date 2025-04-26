@@ -4,7 +4,7 @@
 - 👨‍💻 Visit my [personal portfolio](https://prathamjaiswal.com/) to see my work.
 - 📱 Check out my mobile apps:
   - 📺 [Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest) - Anime Streaming App
-  - 📸 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracking App
+  - 💰 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracking App
 - 🤖 Check out my AI Tools:
   - 🧠 [Claire](https://github.com/pratham-jaiswal/claire) - An agentic AI with persistent semantic memory, built for conversations and tasks.
   - ✍️ [TL;DR AI](https://tldr-ai.prathamjaiswal.com/) - AI tool for quick, concise summaries of lengthy articles and papers.
