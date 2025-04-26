@@ -133,20 +133,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-jaiswal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-# 🤝 Referrals
-
-Check out these great services and support my work by using the referral links below!
-
-<a href="https://www.digitalocean.com/?refcode=dd04c3f5d629&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral" /></a>
-
-<a href="https://www.buymeacoffee.com/invite/maxxdevs"><img src="https://i.imgur.com/TawsgOR.png" alt="Buy Mee A Coffee Referral" /></a>
-
-<a href="https://beta.publishers.adsterra.com/referral/73iZUJAXWa"><img alt="Adsterra Referral" src="https://landings-cdn.adsterratech.com/referralBanners/gif/468x60_adsterra_reff.gif" /></a>
-
----
-# 🎁 You can help me by Donating
-
-I would greatly appreciate any donations to help keep my hosting running and support new projects. Your contributions will provide the resources I need to continue creating and developing. Thank you :)
-
-[![Imgur](https://i.imgur.com/WcVCUIc.png)](https://buymeacoffee.com/maxxdevs)
