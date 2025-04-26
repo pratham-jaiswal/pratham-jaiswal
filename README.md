@@ -34,7 +34,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_pratham.dev)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pratham52)
 [![Itch.io](https://img.shields.io/badge/Itch.io-D92449?style=for-the-badge&logo=itch.io&logoColor=white)](https://maxx-devs.itch.io)
-[![Mail](https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@prathamjaiswal.com)
+[![Mail](https://img.shields.io/badge/Mail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@prathamjaiswal.com)
 <!-- [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/prathamjaiswal) -->
 
 ---
