@@ -133,3 +133,12 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-jaiswal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+
+# 🎁 You can help me by Donating
+
+Your support means the world! Donations help me keep my hosting running and fuel the creation of new projects. As a thank you, supporters may also get early access to upcoming apps and tools, depending on their tier. Every contribution makes a huge difference. Thank you!
+
+<a href="https://www.patreon.com/MaxxDevs"><img width="200px" src="https://res.cloudinary.com/dhzmockpa/image/upload/v1745678642/PATREON_Lockup_Horizontal_BLACK_RGB_rgl86v.svg" alt="Patreon" /></a>
+
+
