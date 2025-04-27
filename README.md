@@ -19,7 +19,6 @@
 # ✍️ Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s how to add Semantic Memory to AI Agents](https://medium.com/@pratham52/heres-how-to-add-semantic-memory-to-ai-agents-f066b74de888?source=rss-22cb12301bff------2)
 - [Building a Simple Morse Code Translation API with GoFr](https://medium.com/@pratham52/building-a-simple-morse-code-translation-api-with-gofr-36d4f03abe50?source=rss-22cb12301bff------2)
 - [Build a Two-Wheeler Traffic Rule Violation Detector — No ML/DL!](https://medium.com/@pratham52/build-a-two-wheeler-traffic-rule-violation-detector-no-ml-dl-0da3ad626c7d?source=rss-22cb12301bff------2)
 - [Create Your Own Local AI Chatbot with Ollama and LangChain](https://medium.com/@pratham52/create-your-own-local-ai-chatbot-with-ollama-and-langchain-ccd0a8c423e3?source=rss-22cb12301bff------2)
