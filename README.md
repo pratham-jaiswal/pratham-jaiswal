@@ -117,8 +117,6 @@
 # 🔗 Links
 
 - [Personal Portfolio](https://prathamjaiswal.com)
-- [TL;DR AI](https://tldr-ai.prathamjaiswal.com) - TL;DR AI
-- [Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest) - Anime Streaming App (Android)
 - [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker App (Android)
 - [Ascend](https://maxx-devs.itch.io/ascend) - 2D Game
 - [Radiant Rush](https://maxx-devs.itch.io/radiant-rush) - 2D Game
