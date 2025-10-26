@@ -3,7 +3,9 @@
 
 - 👨‍💻 Visit my [personal portfolio](https://prathamjaiswal.com/) to see my work.
 - 📱 Check out my mobile apps:
-  - 📺 [Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest) - Anime Streaming App
+  - 📺 [Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest) *(Discontinued & archived)* - Anime Streaming App. You can still run it locally or build upon it by forking:
+    * [App Repo](https://github.com/pratham-jaiswal/anifuri)
+    * [Server Repo](https://github.com/pratham-jaiswal/anifuri-server)
   - 💰 [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracking App
 - 🤖 Check out my AI Tools:
   - 🧠 [AI Mind Palace](https://github.com/pratham-jaiswal/ai-mind-palace) - A personal AI "second brain" with chat + vector & database memory management.
