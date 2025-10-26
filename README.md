@@ -10,13 +10,6 @@
 - 🤖 Check out my AI Tools:
   - 🧠 [AI Mind Palace](https://github.com/pratham-jaiswal/ai-mind-palace) - A personal AI "second brain" with chat + vector & database memory management.
   - 🧠 [Claire](https://github.com/pratham-jaiswal/claire) - An agentic AI with persistent semantic memory, built for conversations and tasks.
-  <!-- - ✍️ [TL;DR AI](https://tldr-ai.prathamjaiswal.com/) - AI tool for quick, concise summaries of lengthy articles and papers. -->
-<!-- - 🚀 Check out my APIs:
-  - 🎬 **[Talk to Video API](https://rapidapi.com/prathamjaiswal/api/talk-to-video1)** – Turn videos into rich structured data using GenAI
-    - 🧠 Scene-by-scene transcription with emotion detection
-    - 🗣️ Chat with videos using custom prompts
-    - 🌎 Translate transcripts into multiple languages
-    - 🎧 Convert text to expressive speech (TTS) -->
 
 ---
 # ✍️ Blogs posts
@@ -38,7 +31,6 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pratham52)
 [![Itch.io](https://img.shields.io/badge/Itch.io-D92449?style=for-the-badge&logo=itch.io&logoColor=white)](https://maxx-devs.itch.io)
 [![Mail](https://img.shields.io/badge/Mail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@prathamjaiswal.com)
-<!-- [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/prathamjaiswal) -->
 
 ---
 # 💻 Tech Stack:
@@ -47,12 +39,6 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 
 ## Frameworks, Platforms, and Libraries
 
@@ -64,10 +50,6 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-white.svg?style=for-the-badge&logo=flask&logoColor=%23000)
-<!-- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) -->
 
 ## Database & Caching
 
@@ -80,25 +62,6 @@
 
 ![Langchain](https://img.shields.io/badge/langchain-1c3c3c.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![Langgraph](https://img.shields.io/badge/langgraph-ffffff.svg?style=for-the-badge&logo=langchain&logoColor=1c3c3c)
-<!-- ![Ollama](https://img.shields.io/badge/ollama-white.svg?style=for-the-badge&logo=ollama&logoColor=black)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) -->
-
-<!-- ## ML/DL
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) -->
-
-<!-- ## Hostings
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) -->
 
 ## Game Engines
 
@@ -107,7 +70,6 @@
 ## Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<!-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
 
 ## Dev Tools
 
@@ -120,13 +82,6 @@
 - [Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest) - Expense Tracker App (Android)
 - [Ascend](https://maxx-devs.itch.io/ascend) - 2D Game
 - [Radiant Rush](https://maxx-devs.itch.io/radiant-rush) - 2D Game
-<!-- - [Legal AI](https://legal-ai-chatbot.streamlit.app/) - AI Chatbot for Indian Legal Issues
-- [PokéTrivia](https://poketrivia.prathamjaiswal.com/) - Pokémon based trivia games
-- [SharePad](https://sharepad.prathamjaiswal.com/) - A collaborative text editor
-- [Light It Up](https://buymeacoffee.com/maxxdevs/e/214750) - Soundtrack
-- [Classic Asteroids](https://maxx-devs.itch.io/asteroids) - 2D Game
-- [Classic Snake](https://maxx-devs.itch.io/snake-game) - 2D Game
-- [Gravity Glide](https://maxx-devs.itch.io/gravity-glide) - 2D Demo Game -->
 ---
 # 📊 GitHub Stats:
 
@@ -141,5 +96,3 @@
 Your support means the world! Donations help me keep my hosting running and fuel the creation of new projects. As a thank you, supporters may also get early access to upcoming apps and tools, depending on their tier. Every contribution makes a huge difference. Thank you!
 
 <a href="https://www.patreon.com/MaxxDevs"><img width="200px" src="https://res.cloudinary.com/dhzmockpa/image/upload/v1745678642/PATREON_Lockup_Horizontal_BLACK_RGB_rgl86v.svg" alt="Patreon" /></a>
-
-
