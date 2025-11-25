@@ -10,7 +10,7 @@
 - 🤖 Check out my AI Tools:
   - 🧠 [AI Mind Palace](https://github.com/pratham-jaiswal/ai-mind-palace) - A personal AI "second brain" with chat + vector & database memory management.
   - ✨ [Claire](https://github.com/pratham-jaiswal/claire) - An agentic AI with persistent semantic memory, built for conversations and tasks.
-- 🤖 Check out my Browser Extensions/Add-ons:
+- 🔮 Check out my Browser Extensions/Add-ons:
   - 🧠 [LinkedIn Company Ratings](https://addons.mozilla.org/en-US/firefox/addon/linkedin-company-ratings/) <sup>[1](https://github.com/pratham-jaiswal/linkedin-company-ratings)</sup> [Firefox]  - Get company ratings instantly while browsing LinkedIn jobs, company, or school pages.
 - 📃 Check out this [Google Sheets Job Application Tracker](https://docs.google.com/spreadsheets/d/1ViPk4_x62jVFrjQn2oS8Ic3R6TsoNE0H60oDRW7Gcoc/copy). Its a bit modified version of [this](https://docs.google.com/spreadsheets/u/0/d/1YugUQahIZCb9IjKb5U6kk83nwEUDuKptNZcfkUP9zjU/copy) found in [this reddit post](https://www.reddit.com/r/recruitinghell/comments/1fxombf/sharing_an_application_tracker_google_sheets/).
 
