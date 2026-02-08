@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Jaiswal</h1>
 <h3 align="center">Agentic AI Engineer • Full-Stack Developer</h3>
 
-- 👨‍💻 **Portfolio:** [prathamjaiswal.com](https://prathamjaiswal.com/)
+- 👨‍💻 **Portfolio:** [prathamjaiswal.com](https://prathamjaiswal.com)
 
 - 🤖 **Agentic AI & GenAI Projects**
   - 🧠 **[AI Mind Palace](https://github.com/pratham-jaiswal/ai-mind-palace)** — Personal AI “second brain” with chat, vector memory, and structured database storage.
