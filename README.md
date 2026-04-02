@@ -114,14 +114,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-![](https://github-readme-stats.vercel.app/api?username=pratham-jaiswal&theme=dark&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-jaiswal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
 ## 🎁 Support My Work
 
 If you find my projects useful or inspiring, consider supporting my work.  
