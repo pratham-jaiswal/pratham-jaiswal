@@ -10,11 +10,14 @@
 - 📱 **Mobile Applications**
   - 💰 **[Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest)** — Expense tracking Android app.
   - 📺 **[Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest)** *(Archived)* — Anime streaming app  
-    ↳ [Client](https://github.com/pratham-jaiswal/anifuri) • [Server](https://github.com/pratham-jaiswal/anifuri-server)
+    <sup>↳ [Client](https://github.com/pratham-jaiswal/anifuri) • [Server](https://github.com/pratham-jaiswal/anifuri-server)</sup>
+
+- 🌐 **Web Apps**
+  - 🐣 **[PokéTrivia](https://poketrivia.prathamjaiswal.com/)** — A fun Pokémon trivia app where users test their knowledge and collect 1000+ Pokémon.
 
 - 🔮 **Browser Extensions**
   - ⭐ **[LinkedIn Company Ratings](https://addons.mozilla.org/en-US/firefox/addon/linkedin-company-ratings/)** *(Firefox)* — View company ratings directly on LinkedIn job, company, and school pages.  
-    <sup>[Source](https://github.com/pratham-jaiswal/linkedin-company-ratings)</sup>
+    <sup>↳ [Source](https://github.com/pratham-jaiswal/linkedin-company-ratings)</sup>
 
 - 📃 **Utilities**
   - **[Job Application Tracker (Google Sheets)](https://docs.google.com/spreadsheets/d/1ViPk4_x62jVFrjQn2oS8Ic3R6TsoNE0H60oDRW7Gcoc/copy)** — Customizable tracker adapted from a community template.
