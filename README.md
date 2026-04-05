@@ -119,6 +119,10 @@
 ## 🎁 Support My Work
 
 If you find my projects useful or inspiring, consider supporting my work.  
-Your contributions help cover hosting costs and enable continued development of open-source tools and experiments.
+Your contributions help cover hosting costs and enable continued development of open-source tools.
+
+- 🚀 **Free Cloud Credits:** Get **$200 in credits (60 days)** on DigitalOcean via my [Referral Link](https://m.do.co/c/dd04c3f5d629).
+- 🧡 **Patreon:** Support my work by [becoming a Patron](https://www.patreon.com/MaxxDevs).
 
 <a href="https://www.patreon.com/MaxxDevs"><img width="200px" src="https://res.cloudinary.com/dhzmockpa/image/upload/v1745678642/PATREON_Lockup_Horizontal_BLACK_RGB_rgl86v.svg" alt="Patreon" /></a>
+<a href="https://www.digitalocean.com/?refcode=dd04c3f5d629&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img width="200px" src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
