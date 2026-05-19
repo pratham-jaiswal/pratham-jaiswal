@@ -27,10 +27,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Here’s How to Add Semantic Memory to AI Agents](https://levelup.gitconnected.com/heres-how-to-add-semantic-memory-to-ai-agents-06b85337902c?source=rss-22cb12301bff------2)
-- [Building a Simple Morse Code Translation API with GoFr](https://medium.com/@pratham52/building-a-simple-morse-code-translation-api-with-gofr-36d4f03abe50?source=rss-22cb12301bff------2)
-- [Build a Two-Wheeler Traffic Rule Violation Detector — No ML/DL!](https://medium.com/@pratham52/build-a-two-wheeler-traffic-rule-violation-detector-no-ml-dl-0da3ad626c7d?source=rss-22cb12301bff------2)
-- [Create Your Own Local AI Chatbot with Ollama and LangChain](https://medium.com/@pratham52/create-your-own-local-ai-chatbot-with-ollama-and-langchain-ccd0a8c423e3?source=rss-22cb12301bff------2)
-- [8 Interesting Free Must-Try APIs for Your Next Project](https://medium.com/@pratham52/8-interesting-free-must-try-apis-for-your-next-project-d790938917ec?source=rss-22cb12301bff------2)
+- [Building a Simple Morse Code Translation API with GoFr](https://medium.com/@pratham-jaiswal/building-a-simple-morse-code-translation-api-with-gofr-36d4f03abe50?source=rss-22cb12301bff------2)
+- [Build a Two-Wheeler Traffic Rule Violation Detector — No ML/DL!](https://medium.com/@pratham-jaiswal/build-a-two-wheeler-traffic-rule-violation-detector-no-ml-dl-0da3ad626c7d?source=rss-22cb12301bff------2)
+- [Create Your Own Local AI Chatbot with Ollama and LangChain](https://medium.com/@pratham-jaiswal/create-your-own-local-ai-chatbot-with-ollama-and-langchain-ccd0a8c423e3?source=rss-22cb12301bff------2)
+- [8 Interesting Free Must-Try APIs for Your Next Project](https://medium.com/@pratham-jaiswal/8-interesting-free-must-try-apis-for-your-next-project-d790938917ec?source=rss-22cb12301bff------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -40,7 +40,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-jaiswal)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14895056/prathamj)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_pratham.dev)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pratham52)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pratham-jaiswal)
 [![Itch.io](https://img.shields.io/badge/Itch.io-D92449?style=for-the-badge&logo=itch.io&logoColor=white)](https://maxx-devs.itch.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamj0502@gmail.com)
 [![Mail](https://img.shields.io/badge/Mail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@prathamjaiswal.com)
