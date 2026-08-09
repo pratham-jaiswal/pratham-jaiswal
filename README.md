@@ -27,6 +27,8 @@
 ## ✍️ Writing & Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix for Google Play Error OR-FGEMF-71 &lpar;Broken Verification Form Link&rpar;](https://medium.com/@pratham-jaiswal/fix-for-google-play-error-or-fgemf-71-broken-verification-form-link-d5e15a7f38bd?source=rss-22cb12301bff------2)
+- [10 Free Open-Source Mobile Apps I Actually Use](https://medium.com/@pratham-jaiswal/10-free-open-source-mobile-apps-i-actually-use-5a641afdb46c?source=rss-22cb12301bff------2)
 - [Here’s How to Add Semantic Memory to AI Agents](https://levelup.gitconnected.com/heres-how-to-add-semantic-memory-to-ai-agents-06b85337902c?source=rss-22cb12301bff------2)
 - [Building a Simple Morse Code Translation API with GoFr](https://medium.com/@pratham-jaiswal/building-a-simple-morse-code-translation-api-with-gofr-36d4f03abe50?source=rss-22cb12301bff------2)
 - [Build a Two-Wheeler Traffic Rule Violation Detector — No ML/DL!](https://medium.com/@pratham-jaiswal/build-a-two-wheeler-traffic-rule-violation-detector-no-ml-dl-0da3ad626c7d?source=rss-22cb12301bff------2)
