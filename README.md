@@ -131,7 +131,9 @@ Your contributions help cover hosting costs and enable continued development of 
 - 🚀 **Free Cloud Credits:** Get **$200 in credits (60 days)** on DigitalOcean via my [Referral Link](https://m.do.co/c/dd04c3f5d629).
 - 🧡 **Patreon:** Support my work by [becoming a Patron](https://www.patreon.com/MaxxDevs).
 - 🐦 **Littlebird AI:** Try the AI assistant that actually knows your context - get **2 months of Plus free ($40 value)** via my [Referral Link](https://littlebird.ai/download?ref=CGL84YUB&utm_source=github&utm_medium=referral&utm_campaign=referral_program) (code: `CGL84YUB`).
+- ⚡ **Real-Debrid**: Get faster, unrestricted downloads and streaming from supported file-hosting services via my [Referral Link](http://real-debrid.com/?id=15265272).
 
 <a href="https://www.patreon.com/MaxxDevs"><img width="200px" src="https://res.cloudinary.com/dhzmockpa/image/upload/v1745678642/PATREON_Lockup_Horizontal_BLACK_RGB_rgl86v.svg" alt="Patreon" /></a>
 <a href="https://www.digitalocean.com/?refcode=dd04c3f5d629&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img width="200px" src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 <a href="https://littlebird.ai/download?ref=CGL84YUB&utm_source=github&utm_medium=referral&utm_campaign=referral_program"><img width="200px" src="https://res.cloudinary.com/dhzmockpa/image/upload/v1777919508/e28130f5f141920e1737fc8bec18bb5e-modified_hcxxea.png" alt="Littlebird AI" /></a>
+<a href="http://real-debrid.com/?id=15265272" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
