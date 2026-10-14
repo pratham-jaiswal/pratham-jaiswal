@@ -9,12 +9,18 @@
 
 - 📱 **Mobile Applications**
   - 💰 **[Xpenzie](https://github.com/pratham-jaiswal/xpenzie-expense-tracker/releases/latest)** — Expense tracking Android app.
-  - 📺 **[Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest)** *(Archived)* — Anime streaming app  
+  - 📺 **[Anifuri](https://github.com/pratham-jaiswal/anifuri/releases/latest)** *(Archived)* — Anime streaming app.  
     <sup>↳ [Client](https://github.com/pratham-jaiswal/anifuri) • [Server](https://github.com/pratham-jaiswal/anifuri-server)</sup>
 
 - 🌐 **Web Apps**
   - 🐣 **[PokéTrivia](https://poketrivia.prathamjaiswal.com/)** — A fun Pokémon trivia app where users test their knowledge and collect 1000+ Pokémon.
   - 📝 **[SharePad](https://sharepad.prathamjaiswal.com/)** — Privacy-first, shareable Markdown pads with MDX support, client-side encryption, lock/unlock controls, and simple pastebin-style sharing.
+
+- 🎮 **Games**
+  - 🧱 **[Breakout](https://maxx-devs.itch.io/breakout)** — Classic Breakout arcade game, available for Windows, Linux, and Android.
+
+- ⚙️ **Automation**
+  - 🔔 **[Naukri Profile Manager](https://github.com/pratham-jaiswal/naukri-profile-manager/)** — Automates Naukri profile management with optional Discord notifications and bot integration.
 
 - 🔮 **Browser Extensions**
   - ⭐ **[LinkedIn Company Ratings](https://addons.mozilla.org/en-US/firefox/addon/linkedin-company-ratings/)** *(Firefox)* — View company ratings directly on LinkedIn job, company, and school pages.  
